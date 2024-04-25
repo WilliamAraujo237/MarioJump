@@ -1,4 +1,4 @@
-🍄<h1>Jump Mario Game</h1> 🍄
+<h1>🍄 Jump Mario Game 🍄</h1>
      
 <h2>Descrição do projeto</h2>
 <p>
