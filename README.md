@@ -1,4 +1,5 @@
-<h1>Jump Mario Game</h1>
+🍄<h1>Jump Mario Game</h1> 🍄
+     
 <h2>Descrição do projeto</h2>
 <p>
   O jogo "Jump Mario" foi desenvolvido como uma forma de aprimorar conhecimentos relacionados às linguagens HTML5, CSS3 e JavaScript. Trata-se de um jogo simples, no qual o jogador controla um personagem que deve pular um cano em movimento.
